@@ -1,2 +1,1 @@
-# learning-py
-My learning
+Candid Library for the Internet Computer
